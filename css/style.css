@@ -143,15 +143,14 @@ img.cookie {
   height: 240px;
 }
 .news-bites h3 {
-  margin-bottom: 41px;
+  margin-bottom: 40px;
   font-size: 16px;
-  font-weight: bold;
   text-align: center;
 }
 
 .news-bites .bite {
   display: block;
-  padding: 11px 20px;
+  padding: 10px 20px;
   border-bottom: 1px solid black;
   background-color: whitesmoke;
   font-family: "Verdana", sans-serif;
@@ -160,7 +159,7 @@ img.cookie {
 }
 
 .bite span {
-  padding-left: 11px;
+  padding-left: 10px;
 }
 
 /* Footer */
