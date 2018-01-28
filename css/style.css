@@ -89,15 +89,16 @@ header nav {
 /* main container */
 .content {
   display: flex;
-  width: 1232px;
-  margin: 0 auto 78px auto;
-  padding-top: 116px;
+  justify-content: center;
+  width: 1230px;
+  margin: 0 auto 80px auto;
+  padding-top: 120px;
 }
 
 .column {
   display: flex;
   flex-direction: column;
-  margin-right: 32px;
+  margin-right: 30px;
 }
 
 /* 1. column */
